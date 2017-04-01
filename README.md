@@ -24,8 +24,6 @@ Still means you don't need to choose correct import when building components fro
 No usage of context
 
 Cons:
-Filenames are all going to be the same
-Silly index file
 harder to reuse code in separate files
 
 ### separate

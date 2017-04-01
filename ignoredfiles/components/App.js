@@ -1,8 +1,8 @@
 import React from 'react'
 
-import Bread from './Bread'
-import Cheese from './Cheese'
-import Onion from './Onion'
+import Bread from './Bread/Bread'
+import Cheese from './Cheese/Cheese'
+import Onion from './Onion/Onion'
 
 export default () => (
   <Bread>

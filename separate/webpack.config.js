@@ -32,7 +32,7 @@ const config = {
   // watch: !!process.env.WATCH,
   devtool: 'eval-source-map',
   plugins: [
-    new webpack.IgnorePlugin(/native/)
+    // new webpack.IgnorePlugin(/native/)
   ]
 }
 
