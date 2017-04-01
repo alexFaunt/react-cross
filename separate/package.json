@@ -1,5 +1,5 @@
 {
-  "name": "ignoredfiles",
+  "name": "separate",
   "version": "0.0.1",
   "scripts": {
     "start:ios": "react-native run-ios",
